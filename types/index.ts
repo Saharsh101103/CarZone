@@ -23,7 +23,7 @@ class:string;
 combination_mpg:number;
 cylinders:number;
 displacement:number;
-drive:string;
+drive?:string;
 fuel_type:string;
 highway_mpg:number;
 make:string;
