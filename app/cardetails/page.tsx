@@ -54,7 +54,7 @@ const page = ({searchParams}:{searchParams : CarProps}) => {
               </div>
               <div className="flex justify-between gap-5 w-full text-right">
                 <h4>Drive</h4>
-                <p>{searchParams.drive.toUpperCase()}</p>
+                <p>{searchParams.drive?.toUpperCase()}</p>
               </div>
               <div className="flex justify-between gap-5 w-full text-right">
                 <h4>Fuel Type</h4>
