@@ -1,4 +1,4 @@
-// File: C:\Users\saksh\OneDrive\Desktop\Web Dev\NextJS\CarZone\app\layout.tsx
+// File: C:\Users\saksh\OneDrive\Desktop\Web Dev\NextJS\CarZone1\CarZone\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

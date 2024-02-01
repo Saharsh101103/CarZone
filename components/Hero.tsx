@@ -9,7 +9,7 @@ import { CarCard } from '.';
 
 const Hero = () => {
   
-    const handleScroll = (e) => {
+    const handleScroll = (e: React.ChangeEvent<any>) => {
       e.preventDefault();
       window.scrollTo({
         top: 1000 ,
